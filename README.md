@@ -4,8 +4,8 @@
 
 ## Project Plan
 
-* [Trello board] (https://trello.com/invite/b/N3RLSxoj/ATTI4aa8df3d7b676269bb863900e9a09faa0D216143/project-management)
-* [Spreadsheet] (https://docs.google.com/spreadsheets/d/1zf5oqFOlVpnyKhosw4eyoodLz2KIBpbAsRtxc-96BdI/edit?usp=sharing)
+* [Trello board](https://trello.com/invite/b/N3RLSxoj/ATTI4aa8df3d7b676269bb863900e9a09faa0D216143/project-management)
+* [Spreadsheet](https://docs.google.com/spreadsheets/d/1zf5oqFOlVpnyKhosw4eyoodLz2KIBpbAsRtxc-96BdI/edit?usp=sharing)
 
 ## Instructions
 
