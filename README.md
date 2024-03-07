@@ -24,7 +24,7 @@ Building step
 * Successful deploy of the project in Azure Pipelines.
 ![Successful test](images/successful-test.png)
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  
+* Successful prediction from deployed flask app in Azure Cloud Shell.
 ![prediction](images/prediction.png)
 
 * Output of streamed log files from deployed application
