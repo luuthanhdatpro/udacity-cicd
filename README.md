@@ -20,7 +20,7 @@ Building step
 * Project running on Azure App Service
 ![Webapp](images/webapp.png)
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-![Passing](images/passed_makeall)
+![Passing](images/passed_makeall.png)
 * Successful deploy of the project in Azure Pipelines.
 ![Successful test](images/successful-test.png)
 * Successful prediction from deployed flask app in Azure Cloud Shell.
