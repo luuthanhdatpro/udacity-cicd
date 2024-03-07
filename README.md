@@ -1,6 +1,9 @@
+[![Build and deploy Python app to Azure Web App - thanhluu](https://github.com/luuthanhdatpro/udacity-cicd/actions/workflows/main_thanhluu.yml/badge.svg)](https://github.com/luuthanhdatpro/udacity-cicd/actions/workflows/main_thanhluu.yml)
+
+
 # Overview
 
-<TODO: complete this with an overview of your project>
+* Udacity project
 
 ## Project Plan
 
