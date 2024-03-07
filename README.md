@@ -19,18 +19,16 @@ Building step
 ![Cloned Repo](images/cloned_repo.png)
 * Project running on Azure App Service
 ![Webapp](images/webapp.png)
-
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![Passing](images/passed_makeall)
 * Successful deploy of the project in Azure Pipelines.
 ![Successful test](images/successful-test.png)
-
 * Successful prediction from deployed flask app in Azure Cloud Shell.
 ![prediction](images/prediction.png)
-
 * Output of streamed log files from deployed application
 ![log](images/stream-log.png)
-
-
+* Successful deployment using Continuous Delivery on the Azure platform. 
+![Successful](images/deployment.png)
 ## Enhancements
 
 * Provide more GUI to the web application
