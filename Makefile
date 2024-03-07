@@ -5,13 +5,11 @@ install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 
-test:
+tests:
 	python -m pytest -vv test/*.py
-	#python -m pytest --nbval Housing_price_model/*.ipynb
-
 
 lint:
 	#hadolint Dockerfile #uncomment to explore linting Dockerfiles
 	pylint --disable=R,C,W1203,E0401 app.py
 
-all: test lint 
+all: tests lint 
