@@ -29,6 +29,8 @@ Building step
 ![log](images/stream-log.png)
 * Successful deployment using Continuous Delivery on the Azure platform. 
 ![Successful](images/deployment.png)
+* Successful running make all in CloudShell
+![make all](images/makeall.png)
 ## Enhancements
 
 * Provide more GUI to the web application
