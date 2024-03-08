@@ -36,6 +36,6 @@ Building step
 * Provide more GUI to the web application
 
 ## Demo 
-
-[demo](https://youtu.be/KUDL4I8s4xo)
+Please fast forward from 3:15 to 13:40 thanks. Really sorry for my long video
+[demo](https://www.youtube.com/watch?v=un33e6nvCdk)
 
